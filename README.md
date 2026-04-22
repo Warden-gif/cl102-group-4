@@ -1,1 +1,5 @@
-# cl102-group-[Turdibayov Yakhyo.txt.txt](https://github.com/user-attachments/files/26955939/Turdibayov.Yakhyo.txt.txt)
+Name: Yakhyo
+Group: CL102-group-4
+Favorite OS: Windows
+GitHub UserName: Warden-gif
+
